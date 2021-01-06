@@ -1,0 +1,17 @@
+---
+refresh_interval: 2 # seconds
+max_price: 650 # dollars
+urls:
+  - https://www.microcenter.com/product/631531/msi-geforce-rtx-3060-ti-gaming-x-trio-triple-fan-8gb-gddr6-pcie-40-graphics-card
+  - https://www.microcenter.com/product/630201/msi-geforce-rtx-3070-gaming-x-trio-triple-fan-8gb-gddr6-pcie-40-graphics-card
+  - https://www.microcenter.com/product/628330/msi-geforce-rtx-3080-gaming-x-trio-triple-fan-10gb-gddr6x-pcie-40-graphics-card
+  - https://www.newegg.com/msi-geforce-rtx-3060-ti-rtx-3060-ti-gaming-x-trio/p/N82E16814137611
+  - https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-gaming-x-trio/p/N82E16814137603
+  - https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-gaming-x-trio-10g/p/N82E16814137597
+  - https://www.amazon.com/MSI-RTX-3060-Ti-Architecture/dp/B08P2D3JSG
+  - https://www.amazon.com/MSI-GeForce-Tri-Frozr-Architecture-Graphics/dp/B08KWN2LZG
+  - https://www.amazon.com/MSI-GeForce-Tri-Frozr-Architecture-Graphics/dp/B08HR7SV3M
+  - https://www.adorama.com/MSIG306TGXT.html
+  - https://www.adorama.com/msig3070gxt.html
+  - https://www.adorama.com/MSIG380GXT1.html
+  ...
